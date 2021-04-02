@@ -80,7 +80,8 @@ h1 {
 }
 
 .header-box-text p {
-	font-size: 35px;
+	font-size: 30px;
+	width: 85%;
 }
 
 .background-container {
