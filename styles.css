@@ -233,20 +233,28 @@ footer {
 
 	.header-menu-top li{
 		margin-left: 1rem;
+		font-size: 35px;
 	}
 
 	.header-box-text{
 		width: 35%;
 	}
+
+	.header-box-text h2{
+		width: 90%;
+		font-size: 50px;
+	}
+
+	.header-box-text p{
+		font-size: 45px;
+	}
 	
 	.background-container{
 		display: flex;
 		width: 48%;
-		
 	}
 
 	.main-box-img{
 		width: 40%;
-
 	}
 }
