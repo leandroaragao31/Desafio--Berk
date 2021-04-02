@@ -29,12 +29,6 @@ header {
 	margin-left: 5rem;
 }
 
-.header-menu-item1 {
-	color: black;
-	font-size: 25px;
-	font-weight: bolder;
-}
-
 .header-menu-top ul {
 	width: 32rem;
 	height: 2rem;
@@ -43,6 +37,12 @@ header {
 	justify-content: space-between;
 	list-style: none;
 	margin-right: 1rem;
+}
+
+.header-menu-item1 {
+	color: black;
+	font-size: 25px;
+	font-weight: bolder;
 }
 
 .header-menu-item2 {
@@ -109,7 +109,6 @@ h1 {
 .header-menu ul {
 	width: 100%;
 	height: 2rem;
-	font-size: 20px;
 	display: flex;
 	justify-content: space-evenly;
 	list-style: none;
@@ -119,6 +118,7 @@ h1 {
 .header-menu a {
 	text-decoration: none;
 	color: black;
+	font-weight: 700;
 	font-size: 35px;
 }
 
